@@ -1,7 +1,7 @@
-## Oi, sou a Milena :wave:
+## Oi, sou a Milena 👋
+ 
+<br/> 👩‍💻 Desenvolvedora Full-Stack em formação 
 
-<br/> :purple_heart: &nbsp; Desenvolvedora Full-Stack em formação
-<br/> :😮 
 <br/> :email: &nbsp; Entre em contato comigo: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milena-coutinho-344563212/)](https://www.linkedin.com/in/milena-coutinho-344563212/)
